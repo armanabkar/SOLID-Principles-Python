@@ -2,7 +2,7 @@
 # SOLID Principles in Python
 
 <h2 align="center">
-  <img src="https://github.com/armanabkar/SOLID-Principles-Python/blob/master/SOLID.png" alt="VuePinterest" width="600px" />
+  <img src="https://github.com/armanabkar/SOLID-Principles-Python/blob/master/SOLID.png" alt="VuePinterest" width="480px" />
   <br>
 </h2>
 
